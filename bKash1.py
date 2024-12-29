@@ -1,8 +1,8 @@
 user_info = {
     "name": "Sazzad",
-    "number": "01571026673",
+    "number": "",
     "pin": 45678,
-    "nid": 1033252923,
+    "nid": 0000000000,
     "birth_year": 2000,
     "balance": 4553.00,
     "statement": ["14/12/24 Make Payment - Tk - 35.00", "02/12/24 Make Payment - Tk - 20.00", "28/11/24 Cash Out - Tk - 300.00"]
